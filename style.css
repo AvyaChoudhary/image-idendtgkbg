@@ -1,0 +1,12 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.noo,#result_Object,#result_Accuracy{
+    color: rgb(173, 85, 255);
+}
+#camera{
+    border: 2px dotted rgb(4, 69, 73);
+    width: 350px ;
+    height: 300px;
+}
